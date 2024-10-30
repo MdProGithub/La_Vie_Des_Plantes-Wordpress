@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'chakra-petch';
+					src: url('/exo-cef/wp-content/uploads/useanyfont/6732Chakra-Petch.woff2') format('woff2'),
+						url('/exo-cef/wp-content/uploads/useanyfont/6732Chakra-Petch.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.chakra-petch{font-family: 'chakra-petch' !important;}
+
+				.et_gf_chakra-petch{background:none !important;font-family:chakra-petch;text-indent:0 !important;font-size:25px;}
+
+		
